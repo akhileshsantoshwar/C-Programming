@@ -181,7 +181,7 @@ free(buffer);
 <a href="https://github.com/akhilesh1806/C-Programming/blob/master/Part-1_README.md">
 Back: C Programming, Part 1: Introduction
 </a> |
--<a href="https://github.com/akhilesh1806/C-Programming/blob/master/Part-3_README.md">
+<a href="https://github.com/akhilesh1806/C-Programming/blob/master/Part-3_README.md">
 Next: C Programming, Part 3: Common Gotchas
-</a>-
+</a>
 </div>
