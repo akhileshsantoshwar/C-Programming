@@ -137,7 +137,6 @@ printf("%s", str);
 return 0;
 ```
 
-[Strings as Pointers & Arrays @ BU](https://www.cs.bu.edu/teaching/c/string/intro/)
 
 ## How would you make standard out be saved to a file?
 Simplest way: run your program and use shell redirection
@@ -148,8 +147,6 @@ e.g.
 #To read the contents of the file,
 cat output.txt
 ```
-More complicated way: close(1) and then use open to re-open the file descriptor.
-See [[http://cs-education.github.io/sys/#chapter/0/section/3/activity/0]]
 ## What's the difference between a pointer and an array? Give an example of something you can do with one but not the other.
 ```C
 char ary[] = "Hello";
