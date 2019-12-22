@@ -79,7 +79,7 @@ number of allocations, number of freed allocations, and the number of errors.
 
 **Example**
 
-![Valgrind Example](https://i.imgur.com/ZdBWDvh.png)
+![Valgrind Example](https://github.com/akhilesh1806/C-Programming/blob/master/heap.png)
 
 Here's an example to help you interpret the above results. Suppose we have a simple program like this: 
 ```C
