@@ -1,3 +1,5 @@
+<!--Author: AKHILESH SANTOSHWAR --!>
+
 # C- Programming
 ## A Crash-Cource to C Language
 # Want a quick introduction to C?
