@@ -1,6 +1,6 @@
 ### Author: AKHILESH SANTOSHWAR<hr>
 ## A Crash-Cource to C Language<hr>
-# Want a quick introduction to C?
+ Want a quick introduction to C?
 * Keep reading for the quick crash-course to C Programming below
 # External resources
 * [Learn C Language](https://www.help4code.com/programs/c)
