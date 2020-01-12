@@ -326,8 +326,6 @@ comparator gt = greater_than;
 
 This declares a function type comparator that accepts two `void*` params and returns an integer.
 
-## Wow that was a lot of C
-Don't worry more to come!
 
 <div align="center">
 |<a href="https://github.com/akhilesh1806/C-Programming/blob/master/Part-2_README.md">
