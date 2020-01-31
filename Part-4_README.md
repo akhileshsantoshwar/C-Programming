@@ -2,7 +2,7 @@
 
 # So what's a string?
 
-![String](https://github.com/akhilesh1806/C-Programming/blob/master/string.png)
+![String](https://github.com/akhileshsantoshwar/C-Programming/blob/master/string.png)
 
 In C we have [Null Terminated](https://en.wikipedia.org/wiki/Null-terminated_string) strings rather than [Length Prefixed](https://en.wikipedia.org/wiki/String_(computer_science)#Length-prefixed) for historical reasons. What that means for your average everyday programming is that you need to remember the null character! A string in C is defined as a bunch of bytes until you reach '\0' or the Null Byte.
 
@@ -258,10 +258,10 @@ picture = |       |       |               |               |
 
 
 <div align="center">
-<a href="https://github.com/akhilesh1806/C-Programming/blob/master/Part-3_README.md">
+<a href="https://github.com/akhileshsantoshwar/C-Programming/blob/master/Part-3_README.md">
 Back: C Programming, Part 3: Common Gotchas
 </a> |
-<a href="https://github.com/akhilesh1806/C-Programming/blob/master/Part-5_README.md">
+<a href="https://github.com/akhileshsantoshwar/C-Programming/blob/master/Part-5_README.md">
 Next: C Programming, Part 5: Debugging
 </a>
 </div>
