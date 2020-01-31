@@ -257,7 +257,7 @@ Here, by using the `x` command with parameters `16xb`, we can see that starting 
 ```0x63 0x61 0x74 0xe0 0xf9 0xbf 0x5f 0xff 0x7f 0x00```
 
 <div align="center">
-| <a href="https://github.com/akhilesh1806/C-Programming/blob/master/Part-4_README.md">
+| <a href="https://github.com/akhileshsantoshwar/C-Programming/blob/master/Part-4_README.md">
 Back: C Programming, Part 4: Strings and Structs
 </a> |
 </div>
