@@ -328,7 +328,7 @@ This declares a function type comparator that accepts two `void*` params and ret
 
 
 <div align="center">
-|<a href="https://github.com/akhilesh1806/C-Programming/blob/master/Part-2_README.md">
+|<a href="https://github.com/akhileshsantoshwar/C-Programming/blob/master/Part-2_README.md">
 Next:--> Part 2: Text Input And Output
 </a>|
 
