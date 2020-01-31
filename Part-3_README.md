@@ -270,10 +270,10 @@ size: 4, a: 0
 The expression passed into `sizeof` is not actually evaluated at runtime in most cases, since the type (hence the size) of the expression can be calculated at compile time. Though there are exceptions in the case of [C99 variable-length arrays](http://port70.net/~nsz/c/c11/n1570.html#6.5.3.4p2), since their sizes are determined at runtime.
 
 <div align="center">
-<a href="https://github.com/akhilesh1806/C-Programming/blob/master/Part-2_README.md">
+<a href="https://github.com/akhileshsantoshwar/C-Programming/blob/master/Part-2_README.md">
 Back: C Programming, Part 2: Text Input And Output
 </a> |
-<a href="https://github.com/akhilesh1806/C-Programming/blob/master/Part-4_README.md">
+<a href="https://github.com/akhileshsantoshwar/C-Programming/blob/master/Part-4_README.md">
 Next: C Programming, Part 4: Strings and Structs
 </a>
 </div>
